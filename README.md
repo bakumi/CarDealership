@@ -1,2 +1,7 @@
-[# site_cars
-Сайт автосалон](https://i.imgur.com/xDA8Cc7.png)
+<p align="center">
+      <img src="https://i.imgur.com/xDA8Cc7.png" width="726">
+</p>
+
+## О сайте
+
+Сайт автосалона с современным и стильным дизайном (макет)
